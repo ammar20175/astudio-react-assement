@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+	font-family: neutra;
+	src: url("./assets/fonts/Neutra\ Text\ Font.otf");
+}
+
+body {
+	font-family: neutra;
+}
+
+button {
+	outline: none;
+}
